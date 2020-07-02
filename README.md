@@ -6,8 +6,8 @@ The null node needs to be represented by empty parenthesis pair "()". And you ne
 
 # Example 1:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_606--Construct-String-from-Binary-Tree/blob/master/image/example-1.PNG)
 
 # Example 2:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_606--Construct-String-from-Binary-Tree/blob/master/image/example-2.PNG)
